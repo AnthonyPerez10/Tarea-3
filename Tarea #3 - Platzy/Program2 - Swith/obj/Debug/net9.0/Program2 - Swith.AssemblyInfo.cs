@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Program2 - Swith")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebb3d6b08fa7f0a85102724a39b2e01edf7ac2dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eea4f895ae72c50c8ed4363043f33c183359e287")]
 [assembly: System.Reflection.AssemblyProductAttribute("Program2 - Swith")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Program2 - Swith")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

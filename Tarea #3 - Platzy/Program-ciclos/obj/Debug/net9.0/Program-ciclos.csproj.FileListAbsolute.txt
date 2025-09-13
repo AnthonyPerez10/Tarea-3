@@ -1,0 +1,15 @@
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Tarea-3\Tarea #3 - Platzy\Program-ciclos\bin\Debug\net9.0\Program-ciclos.exe
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Tarea-3\Tarea #3 - Platzy\Program-ciclos\bin\Debug\net9.0\Program-ciclos.deps.json
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Tarea-3\Tarea #3 - Platzy\Program-ciclos\bin\Debug\net9.0\Program-ciclos.runtimeconfig.json
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Tarea-3\Tarea #3 - Platzy\Program-ciclos\bin\Debug\net9.0\Program-ciclos.dll
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Tarea-3\Tarea #3 - Platzy\Program-ciclos\bin\Debug\net9.0\Program-ciclos.pdb
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Tarea-3\Tarea #3 - Platzy\Program-ciclos\obj\Debug\net9.0\Program-ciclos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Tarea-3\Tarea #3 - Platzy\Program-ciclos\obj\Debug\net9.0\Program-ciclos.AssemblyInfoInputs.cache
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Tarea-3\Tarea #3 - Platzy\Program-ciclos\obj\Debug\net9.0\Program-ciclos.AssemblyInfo.cs
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Tarea-3\Tarea #3 - Platzy\Program-ciclos\obj\Debug\net9.0\Program-ciclos.csproj.CoreCompileInputs.cache
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Tarea-3\Tarea #3 - Platzy\Program-ciclos\obj\Debug\net9.0\Program-ciclos.sourcelink.json
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Tarea-3\Tarea #3 - Platzy\Program-ciclos\obj\Debug\net9.0\Program-ciclos.dll
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Tarea-3\Tarea #3 - Platzy\Program-ciclos\obj\Debug\net9.0\refint\Program-ciclos.dll
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Tarea-3\Tarea #3 - Platzy\Program-ciclos\obj\Debug\net9.0\Program-ciclos.pdb
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Tarea-3\Tarea #3 - Platzy\Program-ciclos\obj\Debug\net9.0\Program-ciclos.genruntimeconfig.cache
+C:\Users\FLIA PEREZ\Desktop\U.T.P\4° SEMESTRE 2025\DES. SOFT. IV\Tarea-3\Tarea #3 - Platzy\Program-ciclos\obj\Debug\net9.0\ref\Program-ciclos.dll

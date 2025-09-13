@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Promam-IF")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Program-ciclos")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eea4f895ae72c50c8ed4363043f33c183359e287")]
-[assembly: System.Reflection.AssemblyProductAttribute("Promam-IF")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Promam-IF")]
+[assembly: System.Reflection.AssemblyProductAttribute("Program-ciclos")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Program-ciclos")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

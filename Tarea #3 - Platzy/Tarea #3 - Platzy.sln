@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Promam-IF", "Promam-IF\Prom
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program2 - Swith", "Program2 - Swith\Program2 - Swith.csproj", "{C08E7C9A-BD03-4945-8975-D91C2489DC66}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Program-ciclos", "Program-ciclos\Program-ciclos.csproj", "{87641945-51A1-41D5-A7E1-C7AB0AF2CFF9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C08E7C9A-BD03-4945-8975-D91C2489DC66}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C08E7C9A-BD03-4945-8975-D91C2489DC66}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C08E7C9A-BD03-4945-8975-D91C2489DC66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87641945-51A1-41D5-A7E1-C7AB0AF2CFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87641945-51A1-41D5-A7E1-C7AB0AF2CFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87641945-51A1-41D5-A7E1-C7AB0AF2CFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87641945-51A1-41D5-A7E1-C7AB0AF2CFF9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
