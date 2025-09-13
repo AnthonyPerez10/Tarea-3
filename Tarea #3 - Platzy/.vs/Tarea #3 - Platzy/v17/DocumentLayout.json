@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\FLIA PEREZ\\Desktop\\U.T.P\\4\u00B0 SEMESTRE 2025\\DES. SOFT. IV\\Programas\\Tarea #3 - Platzy\\",
+  "WorkspaceRootPath": "C:\\Users\\FLIA PEREZ\\Desktop\\U.T.P\\4\u00B0 SEMESTRE 2025\\DES. SOFT. IV\\Tarea-3\\Tarea #3 - Platzy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DA10074-8441-4E77-96BE-6935EFE917F4}|Promam-IF\\Promam-IF.csproj|c:\\users\\flia perez\\desktop\\u.t.p\\4\u00B0 semestre 2025\\des. soft. iv\\programas\\tarea #3 - platzy\\promam-if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C08E7C9A-BD03-4945-8975-D91C2489DC66}|Program2 - Swith\\Program2 - Swith.csproj|c:\\users\\flia perez\\desktop\\u.t.p\\4\u00B0 semestre 2025\\des. soft. iv\\tarea-3\\tarea #3 - platzy\\program2 - swith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C08E7C9A-BD03-4945-8975-D91C2489DC66}|Program2 - Swith\\Program2 - Swith.csproj|solutionrelative:program2 - swith\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA10074-8441-4E77-96BE-6935EFE917F4}|Promam-IF\\Promam-IF.csproj|c:\\users\\flia perez\\desktop\\u.t.p\\4\u00B0 semestre 2025\\des. soft. iv\\tarea-3\\tarea #3 - platzy\\promam-if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DA10074-8441-4E77-96BE-6935EFE917F4}|Promam-IF\\Promam-IF.csproj|solutionrelative:promam-if\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FLIA PEREZ\\Desktop\\U.T.P\\4\u00B0 SEMESTRE 2025\\DES. SOFT. IV\\Programas\\Tarea #3 - Platzy\\Promam-IF\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\FLIA PEREZ\\Desktop\\U.T.P\\4\u00B0 SEMESTRE 2025\\DES. SOFT. IV\\Tarea-3\\Tarea #3 - Platzy\\Program2 - Swith\\Program.cs",
+              "RelativeDocumentMoniker": "Program2 - Swith\\Program.cs",
+              "ToolTip": "C:\\Users\\FLIA PEREZ\\Desktop\\U.T.P\\4\u00B0 SEMESTRE 2025\\DES. SOFT. IV\\Tarea-3\\Tarea #3 - Platzy\\Program2 - Swith\\Program.cs",
+              "RelativeToolTip": "Program2 - Swith\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-13T01:21:47.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FLIA PEREZ\\Desktop\\U.T.P\\4\u00B0 SEMESTRE 2025\\DES. SOFT. IV\\Tarea-3\\Tarea #3 - Platzy\\Promam-IF\\Program.cs",
               "RelativeDocumentMoniker": "Promam-IF\\Program.cs",
-              "ToolTip": "C:\\Users\\FLIA PEREZ\\Desktop\\U.T.P\\4\u00B0 SEMESTRE 2025\\DES. SOFT. IV\\Programas\\Tarea #3 - Platzy\\Promam-IF\\Program.cs",
+              "ToolTip": "C:\\Users\\FLIA PEREZ\\Desktop\\U.T.P\\4\u00B0 SEMESTRE 2025\\DES. SOFT. IV\\Tarea-3\\Tarea #3 - Platzy\\Promam-IF\\Program.cs",
               "RelativeToolTip": "Promam-IF\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-13T00:27:27.751Z",
               "EditorCaption": ""

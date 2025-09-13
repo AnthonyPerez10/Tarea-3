@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Promam-IF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebb3d6b08fa7f0a85102724a39b2e01edf7ac2dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Promam-IF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Promam-IF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
